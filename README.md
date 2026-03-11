@@ -2,7 +2,7 @@ NRR_Art8
 ==============================
 
 
-Collection of tools to produce and analyse Tree Canopy Cover and Share of urban green space indicators
+Collection of tools to produce and analyse Nature Restoration Regulation: Tree Canopy Cover and Share of urban green space indicators
 ------------------------------
 
 ### Location on CWS
