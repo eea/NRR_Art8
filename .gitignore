@@ -1,4 +1,16 @@
 # ============================================================
+# Folders and files
+# ============================================================
+
+# Ignore everything ( Too much data to upload Only want the Notebook example accessible ) 
+*
+
+# But not these folders
+!f02_data/f02_processing/notebook_example/**
+!f05_scripts/
+!f05_scripts/**
+
+# ============================================================
 # R
 # ============================================================
 
@@ -11,6 +23,7 @@
 # R project files
 *.Rproj.user/
 .Rproj.user
+.Art8_Urban_CLMS.Rproj
 
 # Package build artifacts
 *.tar.gz
@@ -154,3 +167,5 @@ desktop.ini
 *.swp
 *.swo
 *~
+
+!README.md
