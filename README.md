@@ -18,7 +18,7 @@ Directory layout
     │   └── f02_intermediate  <- Storage for intermediate processing steps
     │   └── f03_output        <- Final data used in assessment
     ├── f03_documents         <- Background docs, figures and graphs
-    ├── f04_scripts           <- Background docs, figures and graphs
+    ├── f04_scripts           <- Scripts and Notebooks for dataprocessing
     ├── f99_sandbox           <- Temp folder used for testing
     ├── .gitignore            <- use this file to indicate which files/folders are NOT saved. For example, log files, configuration files
     └── README.md             <- The top-level README for developers using this project.
