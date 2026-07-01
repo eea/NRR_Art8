@@ -6,6 +6,14 @@
 *
 
 # But not these files
+# Allow directories so Git can traverse them
+!*/
+
+# Allow the required directory tree
+!f03_products/
+!f03_products/Art8_TCC_calculation/
+
+# Allow the two files
 !f03_products/Art8_TCC_calculation/Art8_TCC_WVL_calculation_v01.html
 !f03_products/Art8_TCC_calculation/Art8_TCC_WVL_calculation_v01.Rmd
 
