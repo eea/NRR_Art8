@@ -5,10 +5,9 @@
 # Ignore everything ( Too much data to upload Only want the Notebook example accessible ) 
 *
 
-# But not these folders
-!f02_data/f02_processing/notebook_example/**
-!f05_scripts/
-!f05_scripts/**
+# But not these files
+!f03_products/Art8_TCC_calculation/Art8_TCC_WVL_calculation_v01.html
+!f03_products/Art8_TCC_calculation/Art8_TCC_WVL_calculation_v01.Rmd
 
 # ============================================================
 # R
