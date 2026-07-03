@@ -6,8 +6,9 @@
 *
 
 # Allow the two files
-Art8_TCC_WVL_calculation_v01.html
-Art8_TCC_WVL_calculation_v01.Rmd
+!Art8_TCC_WVL_calculation_v02.html
+!Art8_TCC_WVL_calculation_v02.Rmd
+!t8_UEAPolygons.gpkg
 
 # ============================================================
 # R
