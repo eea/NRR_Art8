@@ -4,7 +4,10 @@ This repository provides a scripted example to compute the Article 8 Nature Rest
 
 It shall provide technical guidance for countries on indicator data preparation for National Restoration Plan submission of data via Reportnet3.
 
-All input datasets necessary are accessible via links embedded in the file: Art\_8\_TCC\_WVL\_calculation\_v03.rmd The html file presents a knitted example for simple viewing.
+All input datasets necessary are accessible via links embedded in the file: Art\_8\_TCC\_WVL\_calculation\_v03.rmd The html file presents a knitted example for simple viewing for the example country of Luxembourg.
+
+Please note that this repository presents an intermediate solution. 
+Once the WVL dataset 2024 is available on the Copernicus Data Space Ecosystem, the script will be updated and shifted to new repository allowing direct extraction of the data.
 
 ## Author
 
@@ -12,7 +15,27 @@ Karl Ruf  ruf@space4environment.com ETC-DI
 
 Luis Cadahía Luis.CADAHIA-LORENZO@ec.europa.eu JRC
 
+## Required packages
 
+leaflet: 2.2.3
+htmltools: 0.5.8.1
+writexl: 1.5.4
+readxl: 1.4.5
+exactextractr: 0.10.0
+tidyterra: 0.7.2
+terra: 1.8-70
+lubridate: 1.9.4
+forcats: 1.0.1
+stringr: 1.5.2
+dplyr: 1.1.4
+purrr: 1.1.0
+readr: 2.1.5
+tidyr: 1.3.1
+tibble: 3.3.0
+ggplot2: 4.0.0
+tidyverse: 2.0.0
+sf: 1.0-21
+here: 1.0.2
 
 ## License
 
